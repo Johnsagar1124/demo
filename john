@@ -1,0 +1,25 @@
+/ -  root
+~   home folder
+/bin -user binary
+/sbin -system binary
+/etc  - configuration files
+/dev  - device files
+/proc - process information
+/var  - variable file
+/tmp  - temporary files
+/usr  - user programs
+/home - home directory
+/boot - boot loader files
+/lib  - system libraries
+/opt  - optional add on applications
+/mnt  - mount directories
+/srv  - service data
+$ useract - user active
+sudo su - (root user permission)
+mkdir - making directory
+cd -   (changing directory)
+rmdir - remove directory
+la,ll,ls - file list
+pwd  - present working directory
+cd ..  (remove directory)
+sudo(super user do)
